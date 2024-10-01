@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Caygg
-- 👀 I’m interested in Android development and e-commerce business strategies.
+- 👀 I’m interested in Web development, Android development and e-commerce business strategies.
 - 🌱 I’m currently learning Jetpack Compose, cloud integration with CodeIgniter, and building scalable web applications.
 - 💞️ I’m looking to collaborate on android application, cloud-based solutions, and innovative tech-driven projects.
 - 📫 How to reach me cingcaiunriyo@gmail.com
